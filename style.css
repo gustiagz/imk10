@@ -1,0 +1,41 @@
+		.hubungi {
+			background-color: #ff9d9d;
+		}
+		
+		.beranda {
+			background-color: #ffd868;
+		}
+		
+		.index {
+			background-color: #ffc2c2;
+		}
+	
+		hr {
+			border-style: none;
+			border-top-style: dotted;
+			border-color: grey;
+			border-width: 5px;
+			width: 5%;
+		}
+		
+		#selamat {
+			color : #010a43;
+		}
+		#profil {
+			color : #ff9d9d;
+		}
+		#hubungi {
+			color : #ff2e63;
+		}
+		
+		
+		#index {
+			font-family= Calibri, Helvetica, Arial, sans-serif;
+		}
+		#diri {
+			font-family= Cambria,"Times New Roman",serif;
+		}
+		#saya {
+			font-family= Georgia, serif;
+		}
+		
